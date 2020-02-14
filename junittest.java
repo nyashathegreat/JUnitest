@@ -1,9 +1,3 @@
-/**
- *  Data Science, Algorithms and Software Engineering Task 11;
- *  Nyasha Mhirimo [30 September 2019];
- *  Test methods for the provided data 
- **/
-
 package stringTest;
 
 public class JunitTest {
